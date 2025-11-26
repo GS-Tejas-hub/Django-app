@@ -5,6 +5,7 @@ This project is a **full Django web app** that embeds an OpenAI **Agent Builder 
 On your laptop, it gives you a beautiful, single‑page UI where:
 
 - You chat with your OpenAI Agent directly inside your own site.
+- It should trigger a automation of updating data into spreadsheet as soon as you upload a certificate.
 - The Agent is defined in **Agent Builder** and referenced by a `WORKFLOW_ID`.
 - The frontend uses **TailwindCSS** for a clean, modern design.
 - The backend is plain **Django**, so you can extend it however you like.
