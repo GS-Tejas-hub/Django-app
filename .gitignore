@@ -1,0 +1,29 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+
+# Django project artifacts
+staticfiles/
+media/
+
+# Secrets / config
+.env
+
+# Jupyter / notebooks
+*.ipynb_checkpoints/
+
+
